@@ -18,7 +18,7 @@ A powerful, zero-configuration audit trail package for Laravel. Automatically tr
 ## Requirements
 
 - PHP 8.1 or higher
-- Laravel 10.x or 11.x
+- Laravel 9 to 12
 
 ## Installation
 
